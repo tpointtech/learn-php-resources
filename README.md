@@ -36,8 +36,8 @@ https://www.tutorialspoint.com/php/index.htm
 
 <sup>Learn PHP for Free with Tutorials Point.</sup>
 
-- **Learn PHP with Javatpoint - Free**
-https://www.javatpoint.com/php-tutorial
+- **Learn PHP with TpointTech - Free**
+https://www.tpointtech.com/php-tutorial
 
 <sup>PHP documentation.</sup>
 
